@@ -1,0 +1,24 @@
+{
+  "name": "voyage99",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StrugglingYJ-0512/voyage99.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StrugglingYJ-0512/voyage99/issues"
+  },
+  "homepage": "https://github.com/StrugglingYJ-0512/voyage99#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.1"
+  }
+}
